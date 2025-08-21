@@ -47,8 +47,8 @@ Required environment variables in `.env`:
 
 ## Docker Images
 
-- Backend: `YOUR_DOCKER_USERNAME/pilot-ai-backend`
-- Frontend: `YOUR_DOCKER_USERNAME/pilot-ai-frontend`
+- Backend: `pilotali007/pilot-ai-backend`
+- Frontend: `pilotali007/pilot-ai-frontend`
 
 ## License
 
