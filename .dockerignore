@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+.env
+.git
+.gitignore
+.dockerignore
+Dockerfile*
+docker-compose*
+venv
+.venv
+env
+.env
+*.log
+chromadb-*

@@ -1,0 +1,48 @@
+market_research:
+  description: "Research current market trends for {product_name} targeting {target_audience} on {platform}."
+  expected_output: "A report with insights into market demand, audience preferences, and competitor strategies."
+  constraints:
+    - "Must be relevant to {goal}"
+    - "Focus specifically on {platform}"
+
+prepare_marketing_strategy:
+  description: "Develop a {platform}-focused marketing strategy to promote {product_name} to {target_audience}."
+  expected_output: "Step-by-step campaign strategy tailored to {platform}."
+  constraints:
+    - "Ensure recommendations align with {goal}"
+
+create_content_calendar:
+  description: "Create a {platform} content calendar to promote {product_name} over the next 4 weeks."
+  expected_output: "Detailed content schedule with themes, dates, and captions."
+  constraints:
+    - "Tailor all posts to {target_audience}"
+
+prepare_post_drafts:
+  description: "Draft engaging {platform} posts for {product_name}, considering {target_audience}'s interests."
+  expected_output: "3–5 draft posts optimized for {platform}."
+  constraints:
+    - "Posts must align with {goal}"
+
+prepare_scripts_for_reels:
+  description: "Write creative {platform} short video scripts promoting {product_name}."
+  expected_output: "2–3 video scripts with hooks, storylines, and CTAs."
+  constraints:
+    - "Scripts should resonate with {target_audience}"
+
+content_research_for_blogs:
+  description: "Research trending blog topics that can promote {product_name} to {target_audience}."
+  expected_output: "List of 5–7 relevant blog topics with SEO keywords."
+  constraints:
+    - "Stay aligned with {goal}"
+
+draft_blogs:
+  description: "Write blog drafts showcasing {product_name}, tailored to {target_audience}."
+  expected_output: "2 long-form blog drafts optimized for SEO."
+  constraints:
+    - "Use {goal} as guiding theme"
+
+seo_optimization:
+  description: "Optimize all campaign content for search engines with focus on {product_name}."
+  expected_output: "SEO checklist and keyword optimization report."
+  constraints:
+    - "Align keywords with {goal}"

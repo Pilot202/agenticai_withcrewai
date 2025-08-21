@@ -1,0 +1,71 @@
+## SEO Checklist for Promoting [Product Name] on Twitter
+
+**I. On-Page Optimization**
+
+*   **Keyword Research:**
+    *   [ ] Identify primary and secondary keywords for each piece of content (tweets, video scripts, blog posts).
+    *   [ ] Use keyword research tools (e.g., Google Keyword Planner) to identify high-volume and relevant keywords.
+*   **Title Tags:**
+    *   [ ] Optimize title tags for each landing page and blog post (under 60 characters).
+    *   [ ] Include the primary keyword in the title tag.
+    *   [ ] Make the title tag compelling and click-worthy.
+*   **Meta Descriptions:**
+    *   [ ] Write unique meta descriptions for each landing page and blog post (under 160 characters).
+    *   [ ] Include the primary keyword in the meta description.
+    *   [ ] Make the meta description compelling and relevant to the content.
+*   **Header Tags (H1-H6):**
+    *   [ ] Use header tags to structure the content logically.
+    *   [ ] Include relevant keywords in header tags (especially H1 and H2).
+    *   [ ] Ensure there is only one H1 tag per page.
+*   **Image Alt Text:**
+    *   [ ] Add descriptive alt text to all images.
+    *   [ ] Include relevant keywords in alt text where appropriate.
+*   **Internal Linking:**
+    *   [ ] Implement internal links to connect related content and improve website navigation.
+    *   [ ] Use relevant anchor text for internal links.
+*   **Content Optimization:**
+    *   [ ] Ensure content is high-quality, informative, and engaging.
+    *   [ ] Address user intent and provide valuable information.
+    *   [ ] Incorporate multimedia elements (images, videos) to improve engagement.
+    *   [ ] Use target keywords naturally within the content.
+
+**II. Technical SEO**
+
+*   **Mobile-Friendliness:**
+    *   [ ] Ensure the website is responsive and accessible on all devices.
+    *   [ ] Use Google's Mobile-Friendly Test to check mobile-friendliness.
+*   **Page Speed:**
+    *   [ ] Optimize page speed to improve user experience and search engine rankings.
+    *   [ ] Use Google PageSpeed Insights to analyze page speed and identify areas for improvement.
+    *   [ ] Optimize images, leverage browser caching, and minify CSS and JavaScript.
+*   **Broken Links:**
+    *   [ ] Check for broken links on the website and fix them.
+*   **Sitemap:**
+    *   [ ] Ensure the sitemap is up-to-date and submitted to search engines.
+*   **Robots.txt:**
+    *   [ ] Check the robots.txt file to ensure it is properly configured.
+
+**III. Twitter-Specific SEO**
+
+*   **Hashtag Optimization:**
+    *   [ ] Use a mix of broad and niche hashtags in tweets.
+    *   [ ] Include relevant trending hashtags when appropriate.
+    *   [ ] Create a branded hashtag and encourage its use.
+*   **Profile Optimization:**
+    *   [ ] Optimize the Twitter profile with relevant keywords and a compelling description.
+    *   [ ] Include a link to the website in the profile.
+*   **Community Engagement:**
+    *   [ ] Actively monitor Twitter for mentions, comments, and relevant conversations.
+    *   [ ] Respond promptly and thoughtfully to foster engagement.
+    *   [ ] Participate in industry discussions and Twitter chats.
+*   **Content Calendar:**
+    *   [ ] Create a content calendar to schedule tweets and ensure consistent posting.
+*   **Twitter Ads:**
+    *   [ ] Utilize Twitter Ads to target specific demographics, interests, and behaviors.
+
+**IV. Measurement and Analysis**
+
+*   [ ] Track key metrics (impressions, engagement rate, website clicks, conversions) using Twitter Analytics.
+*   [ ] Monitor brand mentions and sentiment using social listening tools.
+*   [ ] Analyze the performance of different content formats and hashtags.
+*   [ ] Adjust the campaign based on data and insights.
